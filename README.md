@@ -1,6 +1,6 @@
 # Exchange App Frontend
 
-A modern cryptocurrency exchange frontend built with Next.js 14, featuring real-time trading charts, order book, and market data visualization.
+A modern cryptocurrency exchange frontend built with Next.js 14, featuring real-time trading charts, order book, and market data visualization
 
 ## Features
 
